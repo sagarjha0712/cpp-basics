@@ -24,6 +24,6 @@ int main () {
     //cout << getBit (45 , 2) << endl;
    //cout << setBit (45 , 1) << endl;
    //cout << clearBit (45 , 4) << endl;
-   cout << updateBit (45 , 4, 1) << endl;
+   cout << updateBit (45 , 4, 7) << endl;
     return 0;
 }
