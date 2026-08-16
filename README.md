@@ -19,4 +19,12 @@
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sagarjha0712/cpp-basics/tree/master/2271-rearrange-array-elements-by-sign) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/sagarjha0712/cpp-basics/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/sagarjha0712/cpp-basics/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
