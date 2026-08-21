@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/sagarjha0712/cpp-basics/tree/master/0031-next-permutation) |
+| [0046-permutations](https://github.com/sagarjha0712/cpp-basics/tree/master/0046-permutations) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sagarjha0712/cpp-basics/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sagarjha0712/cpp-basics/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
@@ -29,4 +30,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/sagarjha0712/cpp-basics/tree/master/0050-powx-n) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/sagarjha0712/cpp-basics/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
