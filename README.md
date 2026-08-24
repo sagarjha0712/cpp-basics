@@ -9,6 +9,7 @@
 | [0046-permutations](https://github.com/sagarjha0712/cpp-basics/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sagarjha0712/cpp-basics/tree/master/0047-permutations-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sagarjha0712/cpp-basics/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/sagarjha0712/cpp-basics/tree/master/0128-longest-consecutive-sequence) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sagarjha0712/cpp-basics/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -40,4 +41,12 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/sagarjha0712/cpp-basics/tree/master/0047-permutations-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sagarjha0712/cpp-basics/tree/master/0128-longest-consecutive-sequence) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sagarjha0712/cpp-basics/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
