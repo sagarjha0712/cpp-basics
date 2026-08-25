@@ -11,6 +11,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sagarjha0712/cpp-basics/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sagarjha0712/cpp-basics/tree/master/0128-longest-consecutive-sequence) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sagarjha0712/cpp-basics/tree/master/2271-rearrange-array-elements-by-sign) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/sagarjha0712/cpp-basics/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sagarjha0712/cpp-basics/tree/master/0128-longest-consecutive-sequence) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/sagarjha0712/cpp-basics/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Union-Find
 |  |
 | ------- |
