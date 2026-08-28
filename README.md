@@ -29,6 +29,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sagarjha0712/cpp-basics/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sagarjha0712/cpp-basics/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/sagarjha0712/cpp-basics/tree/master/0050-powx-n) |
 ## Recursion
@@ -47,6 +48,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sagarjha0712/cpp-basics/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sagarjha0712/cpp-basics/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/sagarjha0712/cpp-basics/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/sagarjha0712/cpp-basics/tree/master/0128-longest-consecutive-sequence) |
@@ -62,5 +64,6 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sagarjha0712/cpp-basics/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sagarjha0712/cpp-basics/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
