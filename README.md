@@ -8,6 +8,7 @@
 | [0031-next-permutation](https://github.com/sagarjha0712/cpp-basics/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/sagarjha0712/cpp-basics/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sagarjha0712/cpp-basics/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/sagarjha0712/cpp-basics/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/sagarjha0712/cpp-basics/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sagarjha0712/cpp-basics/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sagarjha0712/cpp-basics/tree/master/0128-longest-consecutive-sequence) |
@@ -31,6 +32,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/sagarjha0712/cpp-basics/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sagarjha0712/cpp-basics/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/sagarjha0712/cpp-basics/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sagarjha0712/cpp-basics/tree/master/0050-powx-n) |
 ## Recursion
 |  |
@@ -60,6 +62,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sagarjha0712/cpp-basics/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/sagarjha0712/cpp-basics/tree/master/0073-set-matrix-zeroes) |
 ## String
 |  |
