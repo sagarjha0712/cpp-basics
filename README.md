@@ -11,6 +11,7 @@
 | [0046-permutations](https://github.com/sagarjha0712/cpp-basics/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sagarjha0712/cpp-basics/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/sagarjha0712/cpp-basics/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/sagarjha0712/cpp-basics/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sagarjha0712/cpp-basics/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sagarjha0712/cpp-basics/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sagarjha0712/cpp-basics/tree/master/0128-longest-consecutive-sequence) |
@@ -30,6 +31,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sagarjha0712/cpp-basics/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sagarjha0712/cpp-basics/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -69,6 +71,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sagarjha0712/cpp-basics/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/sagarjha0712/cpp-basics/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sagarjha0712/cpp-basics/tree/master/0073-set-matrix-zeroes) |
 ## String
 |  |
