@@ -15,6 +15,7 @@
 | [0073-set-matrix-zeroes](https://github.com/sagarjha0712/cpp-basics/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sagarjha0712/cpp-basics/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sagarjha0712/cpp-basics/tree/master/0128-longest-consecutive-sequence) |
+| [0560-subarray-sum-equals-k](https://github.com/sagarjha0712/cpp-basics/tree/master/0560-subarray-sum-equals-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sagarjha0712/cpp-basics/tree/master/2271-rearrange-array-elements-by-sign) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/sagarjha0712/cpp-basics/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
@@ -62,6 +63,7 @@
 | [0013-roman-to-integer](https://github.com/sagarjha0712/cpp-basics/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/sagarjha0712/cpp-basics/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/sagarjha0712/cpp-basics/tree/master/0128-longest-consecutive-sequence) |
+| [0560-subarray-sum-equals-k](https://github.com/sagarjha0712/cpp-basics/tree/master/0560-subarray-sum-equals-k) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/sagarjha0712/cpp-basics/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Union-Find
 |  |
@@ -78,4 +80,8 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/sagarjha0712/cpp-basics/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sagarjha0712/cpp-basics/tree/master/0013-roman-to-integer) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sagarjha0712/cpp-basics/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
