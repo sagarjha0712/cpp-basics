@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sagarjha0712/cpp-basics/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/sagarjha0712/cpp-basics/tree/master/0067-add-binary) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sagarjha0712/cpp-basics/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -43,6 +44,7 @@
 | [0013-roman-to-integer](https://github.com/sagarjha0712/cpp-basics/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/sagarjha0712/cpp-basics/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sagarjha0712/cpp-basics/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/sagarjha0712/cpp-basics/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -82,8 +84,13 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/sagarjha0712/cpp-basics/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sagarjha0712/cpp-basics/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/sagarjha0712/cpp-basics/tree/master/0067-add-binary) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sagarjha0712/cpp-basics/tree/master/0560-subarray-sum-equals-k) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sagarjha0712/cpp-basics/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
