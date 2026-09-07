@@ -16,6 +16,7 @@
 | [0118-pascals-triangle](https://github.com/sagarjha0712/cpp-basics/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sagarjha0712/cpp-basics/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sagarjha0712/cpp-basics/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/sagarjha0712/cpp-basics/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sagarjha0712/cpp-basics/tree/master/0560-subarray-sum-equals-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sagarjha0712/cpp-basics/tree/master/2271-rearrange-array-elements-by-sign) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/sagarjha0712/cpp-basics/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -60,6 +61,7 @@
 | [0015-3sum](https://github.com/sagarjha0712/cpp-basics/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sagarjha0712/cpp-basics/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/sagarjha0712/cpp-basics/tree/master/0047-permutations-ii) |
+| [0229-majority-element-ii](https://github.com/sagarjha0712/cpp-basics/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +69,7 @@
 | [0013-roman-to-integer](https://github.com/sagarjha0712/cpp-basics/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/sagarjha0712/cpp-basics/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/sagarjha0712/cpp-basics/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/sagarjha0712/cpp-basics/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sagarjha0712/cpp-basics/tree/master/0560-subarray-sum-equals-k) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/sagarjha0712/cpp-basics/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Union-Find
@@ -93,4 +96,12 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sagarjha0712/cpp-basics/tree/master/0067-add-binary) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/sagarjha0712/cpp-basics/tree/master/0229-majority-element-ii) |
+## BoyerâMoore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/sagarjha0712/cpp-basics/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
