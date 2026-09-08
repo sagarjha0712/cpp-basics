@@ -100,6 +100,10 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/sagarjha0712/cpp-basics/tree/master/0229-majority-element-ii) |
+## BoyerÃÂ¢ÃÂÃÂMoore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/sagarjha0712/cpp-basics/tree/master/0229-majority-element-ii) |
 ## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
 |  |
 | ------- |
