@@ -7,6 +7,7 @@
 | ------- |
 | [0015-3sum](https://github.com/sagarjha0712/cpp-basics/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sagarjha0712/cpp-basics/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/sagarjha0712/cpp-basics/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/sagarjha0712/cpp-basics/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/sagarjha0712/cpp-basics/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sagarjha0712/cpp-basics/tree/master/0047-permutations-ii) |
@@ -30,6 +31,7 @@
 | ------- |
 | [0015-3sum](https://github.com/sagarjha0712/cpp-basics/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sagarjha0712/cpp-basics/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/sagarjha0712/cpp-basics/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/sagarjha0712/cpp-basics/tree/master/0031-next-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sagarjha0712/cpp-basics/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -60,6 +62,7 @@
 | ------- |
 | [0015-3sum](https://github.com/sagarjha0712/cpp-basics/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sagarjha0712/cpp-basics/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/sagarjha0712/cpp-basics/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/sagarjha0712/cpp-basics/tree/master/0047-permutations-ii) |
 | [0229-majority-element-ii](https://github.com/sagarjha0712/cpp-basics/tree/master/0229-majority-element-ii) |
 ## Hash Table
@@ -100,15 +103,15 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/sagarjha0712/cpp-basics/tree/master/0229-majority-element-ii) |
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/sagarjha0712/cpp-basics/tree/master/0229-majority-element-ii) |
 ## BoyerÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/sagarjha0712/cpp-basics/tree/master/0229-majority-element-ii) |
 ## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
-|  |
-| ------- |
-| [0229-majority-element-ii](https://github.com/sagarjha0712/cpp-basics/tree/master/0229-majority-element-ii) |
-## BoyerÃÂ¢ÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/sagarjha0712/cpp-basics/tree/master/0229-majority-element-ii) |
