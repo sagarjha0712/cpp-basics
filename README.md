@@ -14,6 +14,7 @@
 | [0047-permutations-ii](https://github.com/sagarjha0712/cpp-basics/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/sagarjha0712/cpp-basics/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sagarjha0712/cpp-basics/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/sagarjha0712/cpp-basics/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/sagarjha0712/cpp-basics/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/sagarjha0712/cpp-basics/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sagarjha0712/cpp-basics/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -66,6 +67,7 @@
 | [0016-3sum-closest](https://github.com/sagarjha0712/cpp-basics/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sagarjha0712/cpp-basics/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/sagarjha0712/cpp-basics/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/sagarjha0712/cpp-basics/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/sagarjha0712/cpp-basics/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
@@ -105,6 +107,10 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/sagarjha0712/cpp-basics/tree/master/0229-majority-element-ii) |
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/sagarjha0712/cpp-basics/tree/master/0229-majority-element-ii) |
 ## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
@@ -113,8 +119,8 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/sagarjha0712/cpp-basics/tree/master/0229-majority-element-ii) |
-## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## Quicksort
 |  |
 | ------- |
-| [0229-majority-element-ii](https://github.com/sagarjha0712/cpp-basics/tree/master/0229-majority-element-ii) |
+| [0056-merge-intervals](https://github.com/sagarjha0712/cpp-basics/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
