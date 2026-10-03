@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/sagarjha0712/cpp-basics/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/sagarjha0712/cpp-basics/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
