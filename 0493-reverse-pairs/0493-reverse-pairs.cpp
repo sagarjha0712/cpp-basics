@@ -1,6 +1,4 @@
 class Solution {
-    int cnt = 0;
-
     void merge(vector<int> &arr, int low, int mid, int high) {
         vector<int> temp;
         int left = low;
@@ -31,7 +29,8 @@ class Solution {
         }
     }
 
-    void countPairs(vector<int> &arr, int low, int mid, int high) {
+    int countPairs(vector<int> &arr, int low, int mid, int high) {
+        int cnt = 0;
         int right = mid + 1;
         for (int i = low; i <= mid; i++) {
             while (right <= high && (long long)arr[i] > 2LL * arr[right]) {
@@ -39,22 +38,23 @@ class Solution {
             }
             cnt += (right - (mid + 1));
         }
+        return cnt;
     }
 
-    void mergeSort(vector<int> &arr, int low, int high) {
-        if (low >= high) return;
+    int mergeSort(vector<int> &arr, int low, int high) {
+        int cnt = 0;
+        if (low >= high) return cnt;
         int mid = low + (high - low) / 2;
-        mergeSort(arr, low, mid);
-        mergeSort(arr, mid + 1, high);
-        countPairs(arr, low, mid, high);
+        cnt += mergeSort(arr, low, mid);
+        cnt += mergeSort(arr, mid + 1, high);
+        cnt += countPairs(arr, low, mid, high);
         merge(arr, low, mid, high);
+        return cnt;
     }
 
 public:
     int reversePairs(vector<int>& nums) {
-        cnt = 0;
         if (nums.empty()) return 0;
-        mergeSort(nums, 0, nums.size() - 1);
-        return cnt;
+        return mergeSort(nums, 0, nums.size() - 1);
     }
 };
