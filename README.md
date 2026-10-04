@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sagarjha0712/cpp-basics/tree/master/0075-sort-colors) |
+| [0493-reverse-pairs](https://github.com/sagarjha0712/cpp-basics/tree/master/0493-reverse-pairs) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/sagarjha0712/cpp-basics/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -35,4 +36,32 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sagarjha0712/cpp-basics/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sagarjha0712/cpp-basics/tree/master/0493-reverse-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sagarjha0712/cpp-basics/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sagarjha0712/cpp-basics/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sagarjha0712/cpp-basics/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sagarjha0712/cpp-basics/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sagarjha0712/cpp-basics/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sagarjha0712/cpp-basics/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
