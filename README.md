@@ -15,6 +15,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/sagarjha0712/cpp-basics/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sagarjha0712/cpp-basics/tree/master/0075-sort-colors) |
+| [0152-maximum-product-subarray](https://github.com/sagarjha0712/cpp-basics/tree/master/0152-maximum-product-subarray) |
 | [0493-reverse-pairs](https://github.com/sagarjha0712/cpp-basics/tree/master/0493-reverse-pairs) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/sagarjha0712/cpp-basics/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -70,4 +71,5 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sagarjha0712/cpp-basics/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/sagarjha0712/cpp-basics/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
