@@ -6,6 +6,7 @@
 | ------- |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/sagarjha0712/cpp-basics/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/sagarjha0712/cpp-basics/tree/master/3995-gcd-of-odd-and-even-sums) |
+| [4084-maximize-sum-of-squares-of-digits](https://github.com/sagarjha0712/cpp-basics/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Number Theory
 |  |
 | ------- |
@@ -75,4 +76,8 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/sagarjha0712/cpp-basics/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/sagarjha0712/cpp-basics/tree/master/0152-maximum-product-subarray) |
+## Greedy
+|  |
+| ------- |
+| [4084-maximize-sum-of-squares-of-digits](https://github.com/sagarjha0712/cpp-basics/tree/master/4084-maximize-sum-of-squares-of-digits) |
 <!---LeetCode Topics End-->
