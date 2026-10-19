@@ -19,6 +19,7 @@
 | [0152-maximum-product-subarray](https://github.com/sagarjha0712/cpp-basics/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/sagarjha0712/cpp-basics/tree/master/0217-contains-duplicate) |
 | [0493-reverse-pairs](https://github.com/sagarjha0712/cpp-basics/tree/master/0493-reverse-pairs) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/sagarjha0712/cpp-basics/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/sagarjha0712/cpp-basics/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/sagarjha0712/cpp-basics/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -36,6 +37,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/sagarjha0712/cpp-basics/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/sagarjha0712/cpp-basics/tree/master/0217-contains-duplicate) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/sagarjha0712/cpp-basics/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Quicksort
 |  |
 | ------- |
@@ -48,6 +50,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/sagarjha0712/cpp-basics/tree/master/0493-reverse-pairs) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/sagarjha0712/cpp-basics/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
