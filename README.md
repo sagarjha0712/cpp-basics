@@ -18,6 +18,7 @@
 | [0075-sort-colors](https://github.com/sagarjha0712/cpp-basics/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/sagarjha0712/cpp-basics/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/sagarjha0712/cpp-basics/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/sagarjha0712/cpp-basics/tree/master/0283-move-zeroes) |
 | [0493-reverse-pairs](https://github.com/sagarjha0712/cpp-basics/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/sagarjha0712/cpp-basics/tree/master/0792-binary-search) |
 | [1380-number-of-closed-islands](https://github.com/sagarjha0712/cpp-basics/tree/master/1380-number-of-closed-islands) |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sagarjha0712/cpp-basics/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/sagarjha0712/cpp-basics/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
